@@ -1,0 +1,24 @@
+@font-face {
+		font-family: "Futura Light BT";
+		src: 
+			 url("fonte/Futura Light BT.ttf")             format("truetype"), /* Safari, Android, iOS */
+			}
+	 @font-face{
+
+	   font-family: "MaxwellSmCaps-Light";
+		src: url("fonte/MaxwellSmCaps-Light.eot"); /* IE9 */
+		/* Aqui toda a declaração após o # é ignorada pelos IEs6-8 */
+		src: url("fonte/MaxwellSmCaps-Light.eot?#iefix")      format("embedded-opentype"), /* < IE9 */
+			 url("fonte/MaxwellSmCaps-Light.woff")            format("woff"), /* browsers modernos */
+			 url("fonte/MaxwellSmCaps-Light.ttf")             format("truetype"), /* Safari, Android, iOS */
+			 url("fonte/MaxwellSmCaps-Light.svg#svgFontName") format("svg"); /* padrão iOS */
+
+	}
+
+	.button{  font-family: "MaxwellSmCaps-Light";}
+
+	.right {  font-family: "Futura Lt BT";}
+	.nav { font-family: "Futura Lt BT";}
+	.search{font-family: "Futura Lt BT";}
+	.nav_lat{font-family: "Futura Lt BT";}
+	.descricao{ font-family: "Futura Lt BT";}

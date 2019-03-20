@@ -1,0 +1,12 @@
+/* Webfont: MaxwellSmCaps-Light */@font-face {
+    font-family: 'MaxwellSmCapsLight';
+    src: url('MaxwellSmCaps-Light.eot'); /* IE9 Compat Modes */
+    src: url('MaxwellSmCaps-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MaxwellSmCaps-Light.woff') format('woff'), /* Modern Browsers */
+         url('MaxwellSmCaps-Light.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('MaxwellSmCaps-Light.svg#MaxwellSmCaps-Light') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
